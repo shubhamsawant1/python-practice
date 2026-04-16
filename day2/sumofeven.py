@@ -1,0 +1,11 @@
+num = 1
+sumofeven = 0
+
+while num <= 100:
+    if num % 2 == 0:
+        sumofeven = sumofeven + num
+        print("sum of even numbers: ", sumofeven)
+
+    num += 1
+
+print("Total sum of even numbers: ", sumofeven)
