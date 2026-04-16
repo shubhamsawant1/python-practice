@@ -7,7 +7,7 @@ eraser = float(input("Enter your eraser price: "))
 gst = (1 + 18 / 100)
 
 costofitems = pencil + pen + eraser 
-
+ 
 totalprice = costofitems * gst
 
 print("total price(with gst)", totalprice)

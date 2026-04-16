@@ -4,4 +4,4 @@ math = int(input("Enter your Math marks: "))
 
 avg = (english + science + math) / 3
 
-print("Avrage marks: ", avg)
+print("Avrage marks: ", avg)   

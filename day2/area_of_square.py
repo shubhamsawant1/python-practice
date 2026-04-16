@@ -5,5 +5,5 @@
 a = int(input("Enter a side of square: "))
 
 area_of_square = a * a
-
+ 
 print("area of square: ", area_of_square)

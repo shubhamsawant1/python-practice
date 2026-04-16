@@ -8,4 +8,4 @@ while num <= 100:
 
     num += 1
 
-print("Total sum of even numbers: ", sumofeven)
+print("Total sum of even numbers: ", sumofeven) 
