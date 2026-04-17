@@ -8,4 +8,7 @@ while num > 0:
 
 
 print("Reverse Number: ",reverse)
+<<<<<<< HEAD
  
+=======
+>>>>>>> f288d80 (update)

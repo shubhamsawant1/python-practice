@@ -9,4 +9,8 @@ for num in range(1 , 51):
     num += 1
 
 print("even count: ", evencount)
+<<<<<<< HEAD
 print("odd count: ", oddcount) 
+=======
+print("odd count: ", oddcount)
+>>>>>>> f288d80 (update)

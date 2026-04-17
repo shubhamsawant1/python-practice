@@ -12,6 +12,10 @@ while num <= 30:
     num += 1
 
 print("the number of even number is: ", evencount)
+<<<<<<< HEAD
 print("the number of odd nnumber is: " , oddcount) 
+=======
+print("the number of odd nnumber is: " , oddcount)
+>>>>>>> f288d80 (update)
 
 # cleaner version (for loop)
